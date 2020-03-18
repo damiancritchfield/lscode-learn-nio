@@ -1,0 +1,10 @@
+.idea/
+.settings/
+target/
+.classpath
+.project
+velocity.log
+*.iml
+# deploy/pubring.gpg
+deploy/secring.gpg
+deploy/secring.txt
